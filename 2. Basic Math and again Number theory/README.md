@@ -8,3 +8,5 @@
 <img width="1294" height="565" alt="Screenshot From 2025-09-20 01-01-54" src="https://github.com/user-attachments/assets/e98da876-1d1a-4b9c-9eeb-aa978f5eec3d" />
 
 ## [Legendre's formula - Largest power of a prime p in n!](https://www.geeksforgeeks.org/dsa/legendres-formula-highest-power-of-prime-number-that-divides-n/) 
+
+<img width="473" height="170" alt="Screenshot From 2025-09-20 01-42-07" src="https://github.com/user-attachments/assets/e77bac43-4805-4037-b67e-c7fda463d213" />
